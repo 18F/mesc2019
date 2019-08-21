@@ -19,3 +19,7 @@ A collection of presentations and documents we prepared for the MESC conference,
     - [The encasement strategy: on legacy systems and the importance of APIs](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/)
     - [Legacy Application Strangulation : Case Studies](https://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/)
 
+## About 18F's Human Services Portfolio
+
+- [About the portfolio](https://github.com/18F/human-services/#18fs-human-services-portfolio) (including current and past work)
+- [A case study about our work with the State of Alaska]
