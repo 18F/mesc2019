@@ -23,3 +23,5 @@ A collection of presentations and documents we prepared for the MESC conference,
 
 - [About the portfolio](https://github.com/18F/human-services/#18fs-human-services-portfolio) (including current and past work)
 - [A case study about our work with the State of Alaska](https://18f.gsa.gov/what-we-deliver/alaska-dhss/)
+
+If you're interested in working with 18F, contact inquiries18F@gsa.gov. We'd love to partner with you!
